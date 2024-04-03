@@ -1,6 +1,14 @@
 # Data Visualization Dashboard
 
 Welcome to the Data Visualization Dashboard repository! This dashboard provides insightful visualizations and data representation for our website. 
+Here are some of the screenshot of the data visualization.
+
+![Image 1](https://github.com/Priyesh031/Data-Visualization/assets/55061971/f8f745fe-8122-47c5-95fb-5dbb23e4ca91)
+![Image 2](https://github.com/Priyesh031/Data-Visualization/assets/55061971/3db96944-c8d2-4bb2-91b2-392de756a196)
+![Image 3](https://github.com/Priyesh031/Data-Visualization/assets/55061971/69390c9c-0495-4b13-a0ed-703ce38a34a7)
+![Image 4](https://github.com/Priyesh031/Data-Visualization/assets/55061971/8c3c54cf-6dc2-4305-b108-d36fbd07b635)
+![Image 5](https://github.com/Priyesh031/Data-Visualization/assets/55061971/434c49d9-cd01-4aa4-a4d1-964135ea340d)
+
 
 ## About
 
